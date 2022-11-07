@@ -1,4 +1,3 @@
-# image_to_shopping
 graduation project forked for portfolio
 
 # 이미지 객체 분할 기반 검색정보 매핑 시스템 (이거 어디서 사?)
