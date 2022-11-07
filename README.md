@@ -1,4 +1,6 @@
-graduation project forked for portfolio
+graduation project forked for portfolio 
+- model train/test, search algorithm code partially uploaded
+- final implemented system code is not here (only on server + test not available since system is currently shut down due to server costs)
 
 # 이미지 객체 분할 기반 검색정보 매핑 시스템 (이거 어디서 사?)
 ### 시연 영상
